@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-👋Hey, I'm Jainish Satani
+👋Hey, I'm Jainish Satani(Jimmy)
 
 🌱 I’m currently studying Master of Science in Big Data Analytics at Trent University
 
