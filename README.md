@@ -8,4 +8,4 @@
 
 Email: jainishsatani75@gmail.com
 
-LinkedIn: jainish75
+LinkedIn: https://www.linkedin.com/in/jainishs/
