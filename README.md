@@ -5,7 +5,7 @@
 
 📫 **How to reach me**  
 - Email: [jainishsatani75@example.com](mailto:jainishsatani75@example.com)  
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/jainishs)  
+- LinkedIn: [jainishs](https://www.linkedin.com/in/jainishs/)  
 
 ---
 
