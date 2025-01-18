@@ -4,8 +4,8 @@
 🎓 I'm currently pursuing a Master's in Big Data Analytics at Trent University.
 
 📫 **How to reach me**  
-- Email: [your_email@example.com](mailto:your_email@example.com)  
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
+- Email: [jainishsatani75@example.com](mailto:jainishsatani75@example.com)  
+- LinkedIn: [jainishs](https://www.linkedin.com/in/jainishs/)  
 
 ---
 
