@@ -20,9 +20,9 @@
 ---
 
 ## GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jainishs&show_icons=true&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jainish75&show_icons=true&theme=dark)
 
 ---
 
 ## Most Used Languages  
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jainishs&layout=compact&theme=dark)
+![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jainish75&layout=compact&theme=dark)
