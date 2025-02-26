@@ -1,7 +1,7 @@
 # ABOUT ME! 👋
 
 🌱 **Hi, I'm Jainish Satani**  
-🎓 I've completed pursuing a Master's in Big Data Analytics at Trent University.
+🎓 I've completed a Master's in Big Data Analytics at Trent University.
 
 📫 **How to reach me**  
 - Email: [jainishsatani75@example.com](mailto:jainishsatani75@example.com)  
